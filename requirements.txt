@@ -1,0 +1,10 @@
+asyncio
+streamlit
+httpx
+python-dotenv
+pydantic
+motor
+openai
+fastmcp
+uvicorn
+fastapi
